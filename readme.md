@@ -18,7 +18,8 @@ a new line with happiness
 | 表格单元   | 表格单元   |
 | 表格单元   | 表格单元   |
 
-beacon:字段名称 | 含义 | 备注|
+**beacon:protocol:**
+字段名称 | 含义 | 备注|
 ---------- | ----------- | ---------|
 name | 协议名称 | 支持beacon或http |
 port | 暴露端口 | 用于连接provider端 |
